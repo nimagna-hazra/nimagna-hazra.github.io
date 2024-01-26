@@ -36,3 +36,9 @@ Investigated Geothermal time-series data from a hot spring using MATLAB to uncov
 
 <h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview</a></h3>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
+
+## Awards
+* HSBC [Team Star](https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view) H1 2021
+* HSBC [Extra Miler](https://drive.google.com/file/d/1PZTfLsbASXe-vyHg9oZf5WWIu-ifFr9Z/view) H2 2021
+* [Indian Academy of Sciences](https://www.ias.ac.in/) Summer Research Fellowship 2018
+* [KVPY 2014](https://dst.gov.in/scientific-programmes/scientific-engineering-research/kishore-vaigyanik-protsahan-yojana-kvpy) Science Scholarship

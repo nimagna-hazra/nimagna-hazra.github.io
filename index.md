@@ -29,12 +29,12 @@ layout: default
 
 ## Projects
 
-### Time-series Analysis
+### [Geothermal Time-series Analysis](https://www.annalsofgeophysics.eu/index.php/annals/article/view/8174)
 **In Association with NIT Durgapur and Saha Institute of Nuclear Physics**
 Investigated Geothermal time-series data from a hot spring using **MATLAB** to uncover significant trends, examine effects of earth tides and establish possible correlations with earthquakes and other geological activities. Published a research paper on the study in the international journal – __Annals of Geophysics__ and presented a poster publication at the __Conference on Non-Linear Systems and Dynamics 2018__ held at Jawaharlal Nehru University, Delhi
-[Read the Publication](https://www.annalsofgeophysics.eu/index.php/annals/article/view/8174)
 
-### Air Quality Index Analysis
+
+<a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer"><h3>See the dashboard</h3></a>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
 [See the dashboard](https://air-quality-index-dash.onrender.com/)
 <p>See the dashboard<a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>

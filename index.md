@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# Data Scientist
+
+**Technical Skills: Python, R, SQL, TABLEAU, AWS, GCP**
+
+## Education
+* #### Master of Science, Business Analytics
+**UCLA Anderson School of Management, California, US** _Dec 2024_
+* #### Bachelor of Technology., Electronics and Communications Engineering
+**National Institute of Technology Durgapur, WB, India** _Jun 2020_
+
+## Work Experience
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

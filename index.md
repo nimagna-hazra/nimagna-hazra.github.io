@@ -34,7 +34,5 @@ layout: default
 Investigated Geothermal time-series data from a hot spring using **MATLAB** to uncover significant trends, examine effects of earth tides and establish possible correlations with earthquakes and other geological activities. Published a research paper on the study in the international journal – __Annals of Geophysics__ and presented a poster publication at the __Conference on Non-Linear Systems and Dynamics 2018__ held at Jawaharlal Nehru University, Delhi
 
 
-<h3><a href^="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">See the dashboard</a></h3>
+<h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">See the dashboard</a></h3>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
-[See the dashboard](https://air-quality-index-dash.onrender.com/)
-<p>See the dashboard<a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>

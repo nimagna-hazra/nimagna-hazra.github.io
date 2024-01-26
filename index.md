@@ -9,130 +9,33 @@ layout: default
 ## Education
 <dl>
 <dt>Master of Science, Business Analytics</dt>
-<dd>UCLA Anderson School of Management, California, US _Dec 2024_</dd>
+<dd>UCLA Anderson School of Management, California, US <i>Dec 2024</i></dd>
 <dt>Bachelor of Technology, Electronics and Communications Engineering</dt>
-<dd>National Institute of Technology Durgapur, WB, India _Jun 2020_</dd>
+<dd>National Institute of Technology Durgapur, WB, India <i>Jun 2020</i></dd>
 </dl>
 
 ## Work Experience
 
+### Data Analysis and Visualization Intern, UCLA Anderson Center for Impact (Dec 2023 - Present)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+* Developed corporate ESG data vizualisation for S&P500 companies using RShiny and Python-Dash and hosted interactive plots on organisational website
 
-[Link to another page](./another-page.html).
+### Data Analyst, HSBC (Aug 2020 - Aug 2023)
+* Cleaned, aggregated and structured ad-campaign data using SQL to develop marketing-attribution report and engineered customer-segmentation model for ad-targeting that enabled digital marketing optimization worth $20K annually
+* Designed and implemented Conversion Rate Optimization strategy of digital channel for a Middle Eastern market using Optimizely and Looker, improving product sales by 10%, increasing cross-sale opportunities by 7% month-on-month and securing a spot in the list of top 7 impactful projects pitched to the Group COO
+* Provided business engagement for deployment, upscale and utilization of customer data platform across 17 markets, supporting incremental value estimated to be north of $100K yearly through performance analysis, consultation on business use cases and ad-hoc market support as a global subject matter expert
+* Developed 4 innovative cloud-based applications that served as zero-coding interfaces to non-technical business stakeholders for seamlessly applying intricate analytical algorithms to customer data and automated 2 FTE worth of analysis backlog.
+* Delivered migration of technology stack for digital analytics of 1 market to more advanced solutions supporting saving of 18% on license costs
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Time-series Analysis
+**In Association with NIT Durgapur and Saha Institute of Nuclear Physics**
+Investigated Geothermal time-series data from a hot spring using **MATLAB** to uncover significant trends, examine effects of earth tides and establish possible correlations with earthquakes and other geological activities. Published a research paper on the study in the international journal – __**Annals of Geophysics**__ and presented a poster publication at the __**Conference on Non-Linear Systems and Dynamics 2018**__ held at Jawaharlal Nehru University, Delhi
+[Read the Publication](https://www.annalsofgeophysics.eu/index.php/annals/article/view/8174)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Air Quality Index Analysis
+Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
+[See the dashboard](https://air-quality-index-dash.onrender.com/)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

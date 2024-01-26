@@ -7,10 +7,12 @@ layout: default
 **Technical Skills: Python, R, SQL, TABLEAU, AWS, GCP**
 
 ## Education
-* #### Master of Science, Business Analytics
-**UCLA Anderson School of Management, California, US** _Dec 2024_
-* #### Bachelor of Technology., Electronics and Communications Engineering
-**National Institute of Technology Durgapur, WB, India** _Jun 2020_
+<dl>
+<dt>Master of Science, Business Analytics</dt>
+<dd>UCLA Anderson School of Management, California, US _Dec 2024_</dd>
+<dt>Bachelor of Technology, Electronics and Communications Engineering</dt>
+<dd>National Institute of Technology Durgapur, WB, India _Jun 2020_</dd>
+</dl>
 
 ## Work Experience
 

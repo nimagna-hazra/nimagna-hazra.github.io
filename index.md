@@ -37,8 +37,8 @@ Investigated Geothermal time-series data from a hot spring using MATLAB to uncov
 <h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview</a></h3>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
 
-<h3><a href="https://public.tableau.com/views/OFGCSD/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">S&P 500 Corporate Sustainability Disclosure in Tableau</a></h3>
-Visualized ESG disclosure data of S&P500 companies using **TableauH** to display state of corporate sustainability as a part of UCLA Anderson [Center for Impact](https://www.anderson.ucla.edu/about/centers/impactanderson)'s annual [State of Corporate Sustainabilty report](https://www.anderson.ucla.edu/about/centers/impactanderson/open-for-good/state-corporate-sustainability-disclosure).
+<h3><a href="https://public.tableau.com/views/OFGCSD/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">S&P 500 Corporate Sustainability Disclosure</a></h3>
+Visualized ESG disclosure data of S&P500 companies using **Tableau** to display state of corporate sustainability as a part of UCLA Anderson [Center for Impact](https://www.anderson.ucla.edu/about/centers/impactanderson)'s annual [State of Corporate Sustainabilty report](https://www.anderson.ucla.edu/about/centers/impactanderson/open-for-good/state-corporate-sustainability-disclosure).
 
 
 

@@ -22,15 +22,13 @@ layout: default
 * Developed advanced data visualizations and dashboards using Tableau and dynamic web applications using Python-DASH to democratize the data and support sustainability strategy development of over 25 US firms across 10+ industries
 
 
-### Rayliant Global Advisors
-#### Data Analyst Intern (July 2024 - Aug 2024)
+### Rayliant Global Advisors <br> Data Analyst Intern (July 2024 - Aug 2024)
 * Streamlined business intelligence and marketing performance analyses to strategize AUM growth worth $8M in 2 months 
 * Led web data analyses to enhance SEO and paid-search marketing campaigns to boost retail customer growth by 10%
 * Advanced Salesforce CRM analytics to optimize acquisition, retention, and performance insights for strategic decisioning
 
 
-### HSBC
-#### Senior Data Analyst (Aug 2020 - Aug 2023)
+### HSBC <br> Senior Data Analyst (Aug 2020 - Aug 2023)
 * Enhanced ad-campaign data aggregation and analysis using SQL and BigQuery to consolidate disparate data sources and develop media-attribution reports that optimized digital marketing budget allocation
 * Engineered customer segmentation model for personalized campaigns that furthered marketing ROI worth $50K annually
 * Boosted conversion rate of product website through funnel and clickstream data analysis, A/B testing and webpage optimization, improving monthly retail product sales by 20% and cross-selling by 17%

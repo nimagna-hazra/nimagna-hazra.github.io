@@ -16,22 +16,22 @@ layout: default
 
 ## Work Experience
 
-### Data Analysis and Visualization Intern, 
-### UCLA Anderson Center for Impact (Dec 2023 - Present)
+### UCLA Anderson Center for Impact
+#### Data Analysis and Visualization Intern (Dec 2023 - Present)
 
 * Implemented ESG data analysis for the S&P500 using Python by analyzing over 300 metrics to generate key insights on corporate sustainability that enabled formulation of novel research methodologies and publications
 * Developed advanced data visualizations and dashboards using Tableau and dynamic web applications using Python-DASH to democratize the data and support sustainability strategy development of over 25 US firms across 10+ industries
 
 
-### Data Analyst Intern, 
-### Rayliant Global Advisors (July 2024 - Aug 2024)
+### Rayliant Global Advisors
+#### Data Analyst Intern (July 2024 - Aug 2024)
 * Streamlined business intelligence and marketing performance analyses to strategize AUM growth worth $8M in 2 months 
 * Led web data analyses to enhance SEO and paid-search marketing campaigns to boost retail customer growth by 10%
 * Advanced Salesforce CRM analytics to optimize acquisition, retention, and performance insights for strategic decisioning
 
 
-### Data Analyst, 
-### HSBC (Aug 2020 - Aug 2023)
+### HSBC
+#### Senior Data Analyst (Aug 2020 - Aug 2023)
 * Enhanced ad-campaign data aggregation and analysis using SQL and BigQuery to consolidate disparate data sources and develop media-attribution reports that optimized digital marketing budget allocation
 * Engineered customer segmentation model for personalized campaigns that furthered marketing ROI worth $50K annually
 * Boosted conversion rate of product website through funnel and clickstream data analysis, A/B testing and webpage optimization, improving monthly retail product sales by 20% and cross-selling by 17%

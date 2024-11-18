@@ -53,7 +53,7 @@ Investigated Geothermal time-series data from a hot spring using MATLAB to uncov
 Formulated heart disease prediction models based on medical history and demographic data using Random Forest and Decision Trees, improving prediction accuracy by 18% and enabling early intervention strategies
 
 
-<h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview <i class="fa-light fa-link fa-xs"></i></a></h3>
+<h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview <i class="fa-solid fa-link fa-xs"></i></a></h3>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
 
 

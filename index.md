@@ -60,6 +60,7 @@ Analyzed air quality index data sourced from [public repository](https://www.kag
 
 ## Awards
 * HSBC [Team Star](https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view) H1 2021
+* HSBC <a href="https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view" target="_blank" rel="noopener noreferrer">Team Star</a>
 * HSBC [Extra Miler](https://drive.google.com/file/d/1PZTfLsbASXe-vyHg9oZf5WWIu-ifFr9Z/view) H2 2021
 * [Indian Academy of Sciences](https://www.ias.ac.in/) Summer Research Fellowship 2018
 * [KVPY 2014](https://dst.gov.in/scientific-programmes/scientific-engineering-research/kishore-vaigyanik-protsahan-yojana-kvpy) Science Scholarship

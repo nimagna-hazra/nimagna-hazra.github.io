@@ -39,7 +39,7 @@ layout: default
 
 ## Projects
 
-<h3><a href="https://uclacfiofg.onrender.com/" target="_blank" rel="noopener noreferrer">Corporate sustainability and Climate Strategy Analysis</a></h3>
+<h3><a href="https://uclacfiofg.onrender.com/" target="_blank" rel="noopener noreferrer">Corporate sustainability and Climate Strategy Analysis <i class="fa-solid fa-link"></i></a></h3>
 Developed a dynamic cloud-based web platform for comparitive analysis of corporate sustainability performance. Also implemented a climate stratagy index for scoring firms based on a weightage-based methodology aggregating across performance, governace and goal oriented metrics. Platform developed using **Python-DASH** and deployed on Render. Platform presented and leveraged in [sustainability symposium](https://www.anderson.ucla.edu/about/centers/impactanderson/corporate-sustainability/open-good-sustainability-workshop-series).
 
 <h3><a href="https://public.tableau.com/views/OFGCSD/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">S&P 500 Corporate Sustainability Disclosure</a></h3>
@@ -59,8 +59,7 @@ Analyzed air quality index data sourced from [public repository](https://www.kag
 
 
 ## Awards
-* HSBC [Team Star](https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view) H1 2021
-* HSBC <a href="https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view" target="_blank" rel="noopener noreferrer">Team Star</a>
-* HSBC [Extra Miler](https://drive.google.com/file/d/1PZTfLsbASXe-vyHg9oZf5WWIu-ifFr9Z/view) H2 2021
-* [Indian Academy of Sciences](https://www.ias.ac.in/) Summer Research Fellowship 2018
-* [KVPY 2014](https://dst.gov.in/scientific-programmes/scientific-engineering-research/kishore-vaigyanik-protsahan-yojana-kvpy) Science Scholarship
+* HSBC <a href="https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view" target="_blank" rel="noopener noreferrer">Team Star</a> H1 2021
+* HSBC <a href="https://drive.google.com/file/d/1PZTfLsbASXe-vyHg9oZf5WWIu-ifFr9Z/view" target="_blank" rel="noopener noreferrer">Extra Miler</a> H2 2021
+* <a href="https://www.ias.ac.in/" target="_blank" rel="noopener noreferrer">Indian Academy of Sciences</a> Summer Research Fellowship 2018
+* <a href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/kishore-vaigyanik-protsahan-yojana-kvpy" target="_blank" rel="noopener noreferrer">KVPY 2014</a> Science Scholarship

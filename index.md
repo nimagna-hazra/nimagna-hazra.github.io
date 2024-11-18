@@ -53,7 +53,7 @@ Investigated Geothermal time-series data from a hot spring using MATLAB to uncov
 Formulated heart disease prediction models based on medical history and demographic data using Random Forest and Decision Trees, improving prediction accuracy by 18% and enabling early intervention strategies
 
 
-<h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview</a></h3>
+<h3><a href="https://air-quality-index-dash.onrender.com/" target="_blank" rel="noopener noreferrer">Air Quality Index Overview <i class="fa-light fa-link fa-xs"></i></a></h3>
 Analyzed air quality index data sourced from [public repository](https://www.kaggle.com/datasets/sogun3/uspollution) using **Python-DASH** to visualize temporal and geographic variations across major US cities for the years (2012-2016). The dashboard is user-friendly and can be used for any studies on air-quality data.
 
 
@@ -62,4 +62,4 @@ Analyzed air quality index data sourced from [public repository](https://www.kag
 * HSBC <a href="https://drive.google.com/file/d/1dV3L6g_fxp8hNS84IcebqKdBJRGBBQ7E/view" target="_blank" rel="noopener noreferrer">Team Star</a> H1 2021
 * HSBC <a href="https://drive.google.com/file/d/1PZTfLsbASXe-vyHg9oZf5WWIu-ifFr9Z/view" target="_blank" rel="noopener noreferrer">Extra Miler</a> H2 2021
 * <a href="https://www.ias.ac.in/" target="_blank" rel="noopener noreferrer">Indian Academy of Sciences</a> Summer Research Fellowship 2018
-* <a href="https://dst.gov.in/scientific-programmes/scientific-engineering-research/kishore-vaigyanik-protsahan-yojana-kvpy" target="_blank" rel="noopener noreferrer">KVPY 2014</a> Science Scholarship
+* <a href="https://www.indiascienceandtechnology.gov.in/nurturing-minds/scholarships/school/kishore-vaigyanik-protsahan-yojana-kvpy" target="_blank" rel="noopener noreferrer">KVPY 2014</a> Science Scholarship

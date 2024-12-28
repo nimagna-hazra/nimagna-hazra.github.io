@@ -4,7 +4,7 @@ layout: default
 
 # Data Scientist
 
-**Technical Skills: Python, R, SQL, TABLEAU, Looker, AWS, GCP**
+**Technical Skills: Python, R, SQL, Tableau, Looker, AWS, GCP, Salesforce**
 
 ## Education
 <dl>
@@ -16,7 +16,7 @@ layout: default
 
 ## Work Experience
 
-### UCLA Anderson Center for Impact <br> Data Analysis and Visualization Intern (Dec 2023 - Present)
+### UCLA Anderson Center for Impact <br> Data Analysis and Visualization Intern (Dec 2023 - Dec 2024)
 
 * Implemented ESG data analysis for the S&P500 using Python by analyzing over 300 metrics to generate key insights on corporate sustainability that enabled formulation of novel research methodologies and publications
 * Developed advanced data visualizations and dashboards using Tableau and dynamic web applications using Python-DASH to democratize the data and support sustainability strategy development of over 25 US firms across 10+ industries

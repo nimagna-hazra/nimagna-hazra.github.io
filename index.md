@@ -18,24 +18,23 @@ layout: default
 
 ### UCLA Anderson Center for Impact <br> Data Analysis and Visualization Intern (Dec 2023 - Dec 2024)
 
-* Implemented ESG data analysis for the S&P500 using Python by analyzing over 300 metrics to generate key insights on corporate sustainability that enabled formulation of novel research methodologies and publications
-* Developed advanced data visualizations and dashboards using Tableau and dynamic web applications using Python-DASH to democratize the data and support sustainability strategy development of over 25 US firms across 10+ industries
+* Led ESG data modeling and analysis for the S&P500 using Python, building statistical models of 300+ metrics to uncover key insights on corporate sustainability, enabling innovative research methodologies, reports and publications
+* Developed Tableau dashboards and dynamic analytical tools using Python-DASH to democratize the data and support sustainability strategy development of over 25 U.S. firms across 10+ industries
 
 
 ### Rayliant Global Advisors <br> Data Analyst Intern (July 2024 - Aug 2024)
-* Streamlined business intelligence and marketing performance analyses to strategize AUM growth worth $8M in 2 months 
-* Led web data analyses to enhance SEO and paid-search marketing campaigns to boost retail customer growth by 10%
-* Advanced Salesforce CRM analytics to optimize acquisition, retention, and performance insights for strategic decisioning
-
+* Advanced Salesforce CRM analytics to generate acquisition, retention, and financial insights for strategic decisioning
+* Streamlined business intelligence and marketing reports using advanced Excel to strategize $8M AUM growth in 2 months
+* Optimized SEO performance using Semrush and devised paid-search strategies via AdWords, driving 10% retail growth
 
 ### HSBC <br> Senior Data Analyst (Aug 2020 - Aug 2023)
-* Enhanced ad-campaign data aggregation and analysis using SQL and BigQuery to consolidate disparate data sources and develop media-attribution reports that optimized digital marketing budget allocation
-* Engineered customer segmentation model for personalized campaigns that furthered marketing ROI worth $50K annually
-* Boosted conversion rate of product website through funnel and clickstream data analysis, A/B testing and webpage optimization, improving monthly retail product sales by 20% and cross-selling by 17%
-* Directed customer data platform management across 17 international markets, supporting incremental annual revenue of $100K through behavioral insights and KPI generation, data modeling and business case consultation as a global SME
-* Created a Python-Flask-based web app that implemented k-means clustering on customer data and visualized profiling metrics, increasing accessibility of advanced analytics to stakeholders and automating 2 FTEs’ workflow 
-* Designed an anomaly detection framework using network-graphs to uncover fraudulent transactions
-* Delivered migration of technology stack for digital analytics of a major operational market to more advanced solutions supporting saving of 18% on license costs
+* Enhanced data cleaning, aggregation and analysis using SQL to consolidate disparate data sources of omnichannel ad campaigns and developed paid-media attribution reports on Looker that optimized digital marketing expenditure by 40%
+* Engineered customer segmentation framework based on demographic, behavioral and financial data for personalization campaigns and ad-targeting that furthered marketing ROI worth $50K annually
+* Analyzed clickstream and customer journey data to improve website performance, boosting retail product sales by 20%
+* Conducted A/B tests on product pages, randomizing treatment with Optimizely and analyzing 1M+ sessions to establish statistically significant enhancements, increasing conversion rates by 36%
+* Directed customer data platform management across 17 international markets, supporting $100K incremental annual revenue through KPI engineering, data modeling, knowledge transfer and cross-functional business consultation as a global SME
+* Created a web app on Python-Flask that implemented k-means clustering on customer data and visualized profiling metrics, increasing accessibility of advanced analytics to stakeholders and automating 2 FTEs’ workflow
+* Designed an anomaly detection framework using network-graphs to flag fraudulent activities, reducing losses by 15%
 
 ## Projects
 
